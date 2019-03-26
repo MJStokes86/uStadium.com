@@ -1,0 +1,29 @@
+{
+  "name": "ustadium",
+  "version": "1.0.0",
+  "description": "The New uStadium.com site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJStokes86/frontend.git"
+  },
+  "keywords": [
+    "ustadium",
+    "sports"
+  ],
+  "author": "Michael J. Stokes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJStokes86/frontend/issues"
+  },
+  "homepage": "https://github.com/MJStokes86/frontend#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "body-parser": "^1.17.1",
+    "superagent": "^3.5.2"
+  }
+}
