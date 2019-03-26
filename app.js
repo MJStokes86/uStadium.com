@@ -4,9 +4,9 @@ var morgan = require('morgan');
 var bodyParser = require('body-parser');
 var methodOverride = require('method-override');
 var request = require('superagent');
-var mailchimpInstance   = 'us8',
-    listUniqueId        = '06b4d5f08c',
-    mailchimpApiKey     = '641754a3a1e807d763c0e387f2dd2948-us8';
+var mailchimpInstance   = '',
+    listUniqueId        = '',
+    mailchimpApiKey     = '';
 
 
 
